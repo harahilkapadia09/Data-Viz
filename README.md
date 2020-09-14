@@ -1,3 +1,3 @@
 # Data-Viz
-Data Visualizations
+Data Visualizations.
 This repository contains data visualizations created over opensource datasets.
